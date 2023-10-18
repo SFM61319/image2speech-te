@@ -11,6 +11,7 @@
   "prettier.enable": true,
   "prettier.requireConfig": true,
   "prettier.configPath": ".prettierrc.json",
+  "python.analysis.autoImportCompletions": true,
   "python.languageServer": "Pylance",
   "python.terminal.activateEnvironment": true,
   "python.testing.pytestEnabled": true,
