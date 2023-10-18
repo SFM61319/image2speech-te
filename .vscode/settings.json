@@ -12,6 +12,12 @@
   "prettier.requireConfig": true,
   "prettier.configPath": ".prettierrc.json",
   "python.analysis.autoImportCompletions": true,
+  "python.analysis.diagnosticSeverityOverrides": {
+    "reportMissingTypeStubs": "none",
+    "reportUnknownArgumentType": "none",
+    "reportUnknownMemberType": "none",
+    "reportUnknownVariableType": "none"
+  },
   "python.analysis.enablePytestSupport": true,
   "python.analysis.typeCheckingMode": "strict",
   "python.analysis.useLibraryCodeForTypes": true,
