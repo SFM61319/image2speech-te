@@ -43,6 +43,7 @@
     "gtts",
     "LSP",
     "noqa",
+    "ocr",
     "pyaudio",
     "pytesseract",
     "te",
