@@ -41,6 +41,7 @@
   "version": "0.2",
   "words": [
     "gtts",
+    "LSP",
     "noqa",
     "pyaudio",
     "pytesseract",
