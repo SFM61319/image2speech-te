@@ -18,9 +18,7 @@
   "flagWords": [],
   "globRoot": "./",
   "ignorePaths": [],
-  "ignoreWords": [
-    "PnP"
-  ],
+  "ignoreWords": ["PnP"],
   "language": "en,lorem",
   "languageSettings": [],
   "loadDefaultConfiguration": true,
@@ -47,6 +45,7 @@
     "pyaudio",
     "pytesseract",
     "te",
+    "tesseract",
     "Tesseract",
     "tts"
   ]
