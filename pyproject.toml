@@ -12,6 +12,7 @@ pytesseract = "^0.3.10"
 gtts = "^2.4.0"
 sounddevice = "^0.4.6"
 soundfile = "^0.12.1"
+numpy = "^1.26.4"
 
 [tool.poetry.dev-dependencies]
 black = "^23.10.0"
